@@ -1,0 +1,24 @@
+[
+  {
+    "data": {
+      "customName": false,
+      "stats": [
+        "+60.00 Mass",
+        "+70% Flammability",
+        "+$1750 Market value",
+        "+4.60 Move speed",
+        "+16.0C Minimum comfortable temperature",
+        "+26.0C Maximum comfortable temperature",
+        "+75 Leather amount",
+        "+3 Honor value"
+      ],
+      "mod": "Unknown",
+      "karmaType": null
+    },
+    "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+    "defName": "Human",
+    "enabled": true,
+    "name": "human",
+    "price": 2917
+  }
+]

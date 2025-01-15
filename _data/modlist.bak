@@ -90,36 +90,6 @@
     "version": null
   },
   {
-    "author": "YAYO",
-    "name": "Yayo's Animation (Continued)",
-    "steamId": "2877292196",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.7.2+7e4b2ae5b0190a8d96d6ae9d5e09327bec3af132"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented",
-    "steamId": "2868392160",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "MO",
-    "name": "Ancient urban ruins",
-    "steamId": "3316062206",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Orion",
     "name": "Hospitality",
     "steamId": "753498552",
@@ -138,10 +108,22 @@
     "version": "0.9.9.1"
   },
   {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "2890901044",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Rah",
     "name": "Rah's Vanilla Turrets Expansion",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Research Reinvented",
+    "steamId": "2868392160",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sandy",
@@ -150,10 +132,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Mint Minimap",
-    "steamId": "1662119905",
-    "version": "1.2.7365"
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -252,22 +234,10 @@
     "version": "1.7.7368"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Break Mod",
-    "steamId": "1722398508",
-    "version": "1.0.0"
-  },
-  {
     "author": "Lucifer",
     "name": "Realistic Rooms Rewritten",
     "steamId": "2558042766",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "AobaKuma OttersHoldHands iforgotmysocks",
-    "name": "Camping Tent",
-    "steamId": "2407128339",
-    "version": "2.2.0.0"
   },
   {
     "author": "EdB",
@@ -324,12 +294,6 @@
     "version": null
   },
   {
-    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
-    "name": "RimFridge: Now with Shelves!",
-    "steamId": "2898411376",
-    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
-  },
-  {
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
@@ -340,24 +304,6 @@
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Core",
-    "steamId": "2260097569",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Boiling",
-    "steamId": "2981924439",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Aspen",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -450,10 +396,28 @@
     "version": null
   },
   {
+    "author": "CE Team",
+    "name": "Combat Extended Armors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
     "name": "Vanilla Furniture Expanded - Architect",
     "steamId": "2608762624",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Guns",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "RimWorld-CrowdControl",
@@ -464,6 +428,12 @@
   {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Melee",
     "steamId": null,
     "version": null
   },
@@ -496,12 +466,6 @@
     "name": "Vehicle Framework",
     "steamId": "3014915404",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Rimefeller",
-    "steamId": "1321849735",
-    "version": "1.2.7364"
   },
   {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
@@ -552,74 +516,32 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "author": "amaoto",
+    "name": "HELLDIVERS - Weapons",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "Albion",
-    "name": "Go Explore!",
-    "steamId": "1814100216",
-    "version": "1.1.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Arid",
+    "author": "amaoto",
+    "name": "HELLDIVERS - Basic Armors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Boreal",
+    "author": "amaoto",
+    "name": "HELLDIVERS - Emplacements",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Extinct Animals",
+    "author": "amaoto",
+    "name": "HELLDIVERS - More Armors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: ReTextures",
-    "steamId": "3205381921",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Wastelands",
-    "steamId": "2122461695",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Tundra",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Tropical",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Swamp",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Temperate",
+    "author": "amaoto",
+    "name": "HELLDIVERS - Vehicles",
     "steamId": null,
     "version": null
   }
